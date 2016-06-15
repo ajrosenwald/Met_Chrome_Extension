@@ -20,7 +20,29 @@ page[14]="0015.html";
 page[15]="0016.html";
 page[16]="0017.html";
 page[17]="0018.html";
-
+page[18]="0019.html";
+page[19]="0020.html";
+page[20]="0021.html";
+page[21]="0022.html";
+page[22]="0023.html";
+page[23]="0024.html";
+page[24]="0025.html";
+page[25]="0026.html";
+page[26]="0027.html";
+page[27]="0028.html";
+page[28]="0029.html";
+page[29]="0030.html";
+page[30]="0031.html";
+page[31]="0032.html";
+page[32]="0033.html";
+page[33]="0034.html";
+page[34]="0035.html";
+page[35]="0036.html";
+page[36]="0037.html";
+page[37]="0038.html";
+page[38]="0039.html";
+page[39]="0040.html";
+page[40]="0041.html";
 
 function rndnumber(){
 var randscript = -1;
