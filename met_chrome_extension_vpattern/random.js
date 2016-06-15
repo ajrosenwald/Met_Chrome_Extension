@@ -1,5 +1,5 @@
 <!-- hide script from old browsers
-var howMany = 8;  // max number of items listed below
+var howMany = 17;  // max number of items listed below
 var page = new Array(howMany+1);
 
 page[0]="0001.html";
@@ -11,6 +11,15 @@ page[5]="0006.html";
 page[6]="0007.html";
 page[7]="0008.html";
 page[8]="0009.html";
+page[9]="00010.html";
+page[10]="00011.html";
+page[11]="00012.html";
+page[12]="00013.html";
+page[13]="00014.html";
+page[14]="00015.html";
+page[15]="00016.html";
+page[16]="00017.html";
+page[17]="00018.html";
 
 
 function rndnumber(){
