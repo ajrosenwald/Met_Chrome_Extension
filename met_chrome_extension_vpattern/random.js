@@ -1,5 +1,5 @@
 <!-- hide script from old browsers
-var howMany = 24;  // max number of items listed below
+var howMany = 33;  // max number of items listed below
 var page = new Array(howMany+1);
 
 page[0]="0001.html";
